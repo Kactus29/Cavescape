@@ -19,4 +19,3 @@ touch cave/coins/coin1/vieux_outil.txt
 
 # Placer la clé dans un endroit caché
 echo "Une petite clé rouillée." > cave/coins/coin2/cle.txt
-echo "La clé est cachée dans cave/coins/coin2/cle.txt"
