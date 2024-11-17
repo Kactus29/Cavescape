@@ -10,4 +10,4 @@ echo "5. ./dormir.sh : Générer l'environnement de la cave"
 echo "6. ./se_suicider.sh : Réinitialiser le jeu"
 echo "7. ./lire_heure.sh : Afficher le temps restant"
 echo "8. ./tourner_clef.sh : Vérifier si la bonne clé est insérée"
-
+echo "9. tar -xvf : Désarchive un fichier"
