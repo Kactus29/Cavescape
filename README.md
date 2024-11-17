@@ -1,2 +1,2 @@
-# perdu sous terre
+# Cave-scape
 PIT game in bash
