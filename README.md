@@ -67,3 +67,5 @@ Conseils et astuces pour survivre :
     Soyez méthodique : Notez les indices et les objets que vous trouvez. Cela vous aidera à résoudre les énigmes plus rapidement.
 
 Amusez-vous bien dans Cave'scape et bonne chance pour votre évasion !
+
+PS : La serrure est un peu sale, au milieu des archives... et si tu lui donnais un coup de neuf ?
