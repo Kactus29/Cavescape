@@ -34,9 +34,9 @@ chmod 777 dormir.sh se_suicider.sh lire_graffitis.sh lire_heure.sh tourner_clef.
 ```
 Maintenant, lancez le jeu.
 Exécutez le script dormir.sh pour générer l'environnement de la cave et lancer le compte à rebours :
-
+```
 ./dormir.sh
-
+```
 ## Comment jouer ?
 Vous vous retrouvez dans le couloir d'accès.
 C'est le point de départ et la sortie.
