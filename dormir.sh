@@ -73,9 +73,9 @@ for zone in "${!zones[@]}"; do
 done
 
 # Ajouts des pare-feux de protection
-tar -czf serrure.tar cave/couloir/serrure
 echo "Je suis vieille et usée, mais même rouillée je peux encore servir." > cave/couloir/serrure/description
 chmod 000 cave/couloir/serrure/description
+tar -czf serrure.tar cave/couloir/serrure
 
 # Ajout du compte à rebours
 echo "30 minutes" > cave/compte_à_rebours
